@@ -6,7 +6,7 @@
 
 A empresa **FINIS** foi criada na instituição de ensino técnico ETEC Adolpho Berezin para desenvolver o trabalho de conclusão de curso (Agende Saúde).
 
-A criação da empresa está documentada juntamente com o documento diretamente disponível no projeto Agende Saúde.
+A criação da empresa está documentada juntamente com o documento diretamente disponível no projeto **Agende Saúde**.
 
 ![Tela Inicial](https://i.imgur.com/9UZQ8iP.png)
 
