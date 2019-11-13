@@ -1,6 +1,6 @@
 # FINIS
 
-  * **Disponível em:** http://finis.epizy.com
+  **Disponível em:** http://finis.epizy.com
 
 ![Tela Inicial](https://i.imgur.com/SguGbha.png)
 
